@@ -14,3 +14,4 @@ I am a <b>MEng Chemical Engineering Graduate </b> from The University of Manches
     <p>&#129026; Partial-Least-Squares Regression Model
   <p>&#128963; The aim was to create a rapid testing method to authenticate cocoa powder that could be used on industrial sites by common employees.
   <p>&#128963; Full scope of this dissertation can be accessed in the pdf posted on my page.
+<hr>
